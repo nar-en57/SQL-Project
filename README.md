@@ -76,6 +76,10 @@ Once the database is set up, you can run the provided SQL queries to interact wi
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
 
+## Contact
+
+For any questions or feedback, please reach out to [nar-en57](https://github.com/nar-en57).
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
